@@ -1,3 +1,4 @@
+![logo](https://github.com/ShrutiMishra3/ShrutiMishra3/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hello 🤟, I'm Shruti Mishra</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
