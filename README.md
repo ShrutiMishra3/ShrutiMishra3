@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shruti mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti mishra" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/shruti mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shruti mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/_incognit0o__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_incognit0o__" height="30" width="40" /></a>
+<a href="https://instagram.com/_incognit0o___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_incognit0o__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
